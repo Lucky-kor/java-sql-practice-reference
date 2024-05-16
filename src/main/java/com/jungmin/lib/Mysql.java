@@ -21,7 +21,7 @@ public class Mysql {
   //Singleton
   public static Mysql getInstance() {
     if (instance == null)
-      instance = new Mysql(
+      instance = new Mysql();
     return instance;
   }
 

@@ -24,34 +24,34 @@ public class Part1 {
       TODO: Q 1-3. Posts 테이블의 구조를 보기위한 SQL을 작성해주세요.
           - 요구사항에 맞는 Posts 테이블을 작성해야만, 테스트를 통과합니다.
   */
-  public static final String PART1_3 = "desc posts";
+  public static final String PART1_3 = "DESCRIBE posts";
 
   /*
   ----------------------------------------------------------------------------------------------
       TODO: Q 1-4. Tags 테이블의 구조를 보기위한 SQL을 작성해주세요.
           - 요구사항에 맞는 Tags 테이블을 작성해야만, 테스트를 통과합니다.
   */
-  public static final String PART1_4 = "desc Tags";
+  public static final String PART1_4 = "DESCRIBE Tags";
 
   /*
   ----------------------------------------------------------------------------------------------
       TODO: Q 1-5. Post_Tags 테이블의 구조를 보기위한 SQL을 작성해주세요.
           - 요구사항에 맞는 Post_Tags 테이블을 작성해야만, 테스트를 통과합니다.
   */
-  public static final String PART1_5 = "desc Post_Tags";
+  public static final String PART1_5 = "DESCRIBE Post_Tags";
 
   /*
   ----------------------------------------------------------------------------------------------
       TODO: Q 1-6. Comments 테이블의 구조를 보기위한 SQL을 작성해주세요.
           - 요구사항에 맞는 Comments 테이블을 작성해야만, 테스트를 통과합니다.
   */
-  public static final String PART1_6 = "desc Comments";
+  public static final String PART1_6 = "DESCRIBE Comments";
 
   /*
   ----------------------------------------------------------------------------------------------
       TODO: Q 1-7. Boards 테이블의 구조를 보기위한 SQL을 작성해주세요.
           - 요구사항에 맞는 Boards 테이블을 작성해야만, 테스트를 통과합니다.
   */
-  public static final String PART1_7 = "desc Boards";
+  public static final String PART1_7 = "DESCRIBE Boards";
 
 }
